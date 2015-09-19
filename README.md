@@ -1,0 +1,3 @@
+# blog
+## kaggleandkegelarenothomphones
+kaggle competition
