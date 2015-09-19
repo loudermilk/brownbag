@@ -1,0 +1,49 @@
+Meeting 9/18/2015 (MKP) --> 8:23 AM
+ 
+I. Integrating CS into team
+ 
+                a) didn't have time to discuss this much
+ 
+ 
+II. Where does this team fit within TCS?
+ 
+                a) good start
+               
+                b) everyone is here to improve skills
+               
+                c) let's grind and shine, homies
+               
+               
+III. Areas where we're lacking (see below)
+               
+ 
+III. Going forward -- let's get focused
+ 
+                a) Regular Knowledge Share / Journal Club
+                               
+                                - Blog
+                                                -- CS will take care of this (let's do a Wiki)
+ 
+                b) Shared office space?
+               
+                                - Not sure who to talk to about this
+               
+                c) Courses
+                               
+                                - Good for regular knowledge share, particularly if people are taking different courses
+                               
+                d) Kaggle competition
+               
+                                - let's form a small team and try a first competition
+                               
+                                - maybe even do an informal Hackathon one Saturday (not in the office)
+                                               
+                                - Brandon will look into getting private GH repo
+ 
+                e) DS meetups and conferences
+               
+                                - something to look into further
+                               
+                f) Increase biz knowledge
+               
+                                - find min(DB) work, read it, meet to discuss once per month
