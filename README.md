@@ -1,3 +1,3 @@
 # blog
-## kaggleandkegelarenothomphones
+## kaggleandkegelarenothomophones
 kaggle competition
