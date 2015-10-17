@@ -8,3 +8,5 @@ output: html_document
 This is a list of suggested articles to read:
 
  [ ] [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
+
+ [ ] [Change Point Detection in Time Series with R and Tableau](http://www.r-bloggers.com/change-point-detection-in-time-series-with-r-and-tableau/)
