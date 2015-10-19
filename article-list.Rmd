@@ -4,6 +4,12 @@ author: "Brandon Loudermilk"
 date: "October 15, 2015"
 output: html_document
 ---
+**Upcoming Events:**
+10/23/15 (12 pm - 1 pm) - small lunch room, TCS 9th floor; discussion leader: loudermilk; article = "Characterizing the Google Book Corpus"
+
+
+**Notes** - we can decide on changes to the format this friday, but for now I suggest we just round-robin starting at the top of the queue with the discussion leader being the person who proposed the article.
+
 
 This is a list of suggested articles to read:
 
