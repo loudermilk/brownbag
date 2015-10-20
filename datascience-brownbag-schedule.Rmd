@@ -7,4 +7,5 @@ output: html_document
 
 Upcoming brownbag on: 10.23.15
 Required reading: [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
-Discussion leader: Loudermilk
+Repo copy: https://github.com/loudermilk/brownbag/blob/master/articles/Characterizing%20the%20Google%20Book%20Corpus.pdf
+Discussion leader: Loudermilk, Brandon
