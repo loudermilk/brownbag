@@ -13,3 +13,19 @@ Where: Command Center
 Required reading: [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
 Repo copy: https://github.com/loudermilk/brownbag/blob/master/articles/Characterizing%20the%20Google%20Book%20Corpus.pdf
 Discussion leader: Loudermilk, Brandon
+
+
+
+
+
+
+
+
+
+3rd Upcoming brownbag 
+Date: 11.10.15
+Time: 12 noon - 1pm
+Where: Command Center / Grand Teton
+Required reading: AN HYBRID APPROACH TO FEATURE SELECTION FOR MIXED CATEGORICAL AND CONTINUOUS DATA by Gauthier Doquire and Michel Verleysen
+
+
