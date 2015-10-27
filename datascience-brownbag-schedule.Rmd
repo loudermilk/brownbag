@@ -26,6 +26,11 @@ Discussion leader: Loudermilk, Brandon
 Date: 11.10.15
 Time: 12 noon - 1pm
 Where: Command Center / Grand Teton
-Required reading: AN HYBRID APPROACH TO FEATURE SELECTION FOR MIXED CATEGORICAL AND CONTINUOUS DATA by Gauthier Doquire and Michel Verleysen
+
+
+Required reading: An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data 
+                  by Gauthier Doquire and Michel Verleysen
+                  
+Discussion leader: Taneja, Ravi
 
 
