@@ -16,9 +16,14 @@ Discussion leader: Loudermilk, Brandon
 
 
 
+2nd Upcoming BrownBag
+Date: 11.3.15
+Time: 12 noon - 1 pm
+Where: Command Center
 
-
-
+Required Reading: [A Simple Intro to Bayesian Change Point Analysis]
+Link: (http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
+Discussion Leader: Mark with Chris and Pejman, who have worked on Change Point Analysis
 
 
 
@@ -26,7 +31,6 @@ Discussion leader: Loudermilk, Brandon
 Date: 11.10.15
 Time: 12 noon - 1pm
 Where: Command Center / Grand Teton
-
 
 Required reading: An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data 
                   by Gauthier Doquire and Michel Verleysen
