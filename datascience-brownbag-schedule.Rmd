@@ -23,6 +23,7 @@ Where: Command Center
 
 Required Reading: [A Simple Intro to Bayesian Change Point Analysis]
 Link: (http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
+Optional Reading: (http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
 Discussion Leader: Mark with Chris and Pejman, who have worked on Change Point Analysis
 
 
