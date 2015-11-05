@@ -5,7 +5,20 @@ date: "October 15, 2015"
 output: html_document
 ---
 
-Upcoming brownbag 
+## Upcoming brownbag 
+
+Date: 11.10.15
+Time: 12 noon - 1pm
+Where: Command Center / Grand Teton
+
+Required reading: **An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data 
+                  by Gauthier Doquire and Michel Verleysen** Look in "articles" section of repo for copy.
+                  
+Discussion leader: Taneja, Ravi
+
+----------
+
+## Previous
 Date: 10.27.15
 Time: 12 noon - 1pm
 Where: Command Center
@@ -15,9 +28,7 @@ Repo copy: https://github.com/loudermilk/brownbag/blob/master/articles/Character
 Discussion leader: Loudermilk, Brandon
 
 
-
-2nd Upcoming BrownBag
-Date: 11.3.15
+Date: 11.03.15
 Time: 12 noon - 1 pm
 Where: Command Center
 
@@ -26,16 +37,5 @@ Link: (http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-cha
 Optional Reading: (http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
 Discussion Leader: Mark with Chris and Pejman, who have worked on Change Point Analysis
 
-
-
-3rd Upcoming brownbag 
-Date: 11.10.15
-Time: 12 noon - 1pm
-Where: Command Center / Grand Teton
-
-Required reading: An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data 
-                  by Gauthier Doquire and Michel Verleysen
-                  
-Discussion leader: Taneja, Ravi
 
 
