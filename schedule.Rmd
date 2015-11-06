@@ -9,7 +9,11 @@ output: html_document
 
 No. | Date | Time | Leader | Topic
 --- | ---- | ---- | ------ | -----
-003 | 11.10.15 | 12 pm - 1pm | Taneja, Ravi | [An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data](https://github.com/loudermilk/brownbag/blob/master/articles/kdir11gd.pdf)
+003 | 11.10.15 | 12pm - 1pm | Taneja, Ravi | [An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data](https://github.com/loudermilk/brownbag/blob/master/articles/kdir11gd.pdf)
+004 | 11.17.15 | 12pm - 1pm | --- | --- 
+005 | 11.24.15 | CANCELLED | --- | ---
+006 | 12.01.15 | 12pm - 1pm | --- | ---
+007 | 12.08.15 | 12pm - 1pm | --- | --- 
 
 
 ----------
