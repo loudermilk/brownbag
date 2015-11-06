@@ -7,6 +7,7 @@ output: html_document
 
 ## Upcoming brownbag 
 
+N0. 003
 Date: 11.10.15
 Time: 12 noon - 1pm
 Where: Command Center / Grand Teton
@@ -17,24 +18,9 @@ Discussion leader: Taneja, Ravi
 
 ----------
 
-## Previous
-Date: 10.27.15
-Time: 12 noon - 1pm
-Where: Command Center
+## Previous Events
 
-Required reading: [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
-Repo copy: https://github.com/loudermilk/brownbag/blob/master/articles/Characterizing%20the%20Google%20Book%20Corpus.pdf
-Discussion leader: Loudermilk, Brandon
-
-
-Date: 11.03.15
-Time: 12 noon - 1 pm
-Where: Command Center
-
-Required Reading: [A Simple Intro to Bayesian Change Point Analysis]
-Link: (http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
-Optional Reading: (http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
-Discussion Leader: Mark with Chris and Pejman, who have worked on Change Point Analysis
-
-
-
+No. | Date | Time | Leader | Topic
+--- | ---- | ---- | ------ | -----
+001 | 10.27.15 | 12 pm - 1 pm | Loudermilk, Brandon | [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
+002 | 11.03.15 | 12 pm - 1 pm | Conway, Mark | [A Simple Intro to Bayesian Change Point Analysis](http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
