@@ -4,7 +4,7 @@ author: "Brandon Loudermilk"
 date: "October 15, 2015"
 output: html_document
 ---
-
+:octocat:
 ## Upcoming brownbag 
 
  * No. 003
