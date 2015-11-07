@@ -5,36 +5,22 @@ date: "October 15, 2015"
 output: html_document
 ---
 
-## Upcoming brownbag 
+## Upcoming brownbag :octocat:
 
-Date: 11.10.15
-Time: 12 noon - 1pm
-Where: Command Center / Grand Teton
+No. | Date | Time | Leader | Topic
+--- | ---- | ---- | ------ | -----
+003 | 11.10.15 | 12pm - 1pm | Taneja, Ravi | [An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data](https://github.com/loudermilk/brownbag/blob/master/articles/kdir11gd.pdf)
+004 | 11.17.15 | 12pm - 1pm | --- | --- 
+005 | 11.24.15 | CANCELLED | --- | ---
+006 | 12.01.15 | 12pm - 1pm | --- | ---
+007 | 12.08.15 | 12pm - 1pm | --- | --- 
 
-Required reading: [An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data](https://github.com/loudermilk/brownbag/blob/master/articles/kdir11gd.pdf), Gauthier Doquire and Michel Verleysen 
-                  
-Discussion leader: Taneja, Ravi
 
 ----------
 
-## Previous
-Date: 10.27.15
-Time: 12 noon - 1pm
-Where: Command Center
+## Previous Events
 
-Required reading: [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
-Repo copy: https://github.com/loudermilk/brownbag/blob/master/articles/Characterizing%20the%20Google%20Book%20Corpus.pdf
-Discussion leader: Loudermilk, Brandon
-
-
-Date: 11.03.15
-Time: 12 noon - 1 pm
-Where: Command Center
-
-Required Reading: [A Simple Intro to Bayesian Change Point Analysis]
-Link: (http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
-Optional Reading: (http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
-Discussion Leader: Mark with Chris and Pejman, who have worked on Change Point Analysis
-
-
-
+No. | Date | Time | Leader | Topic
+--- | ---- | ---- | ------ | -----
+001 | 10.27.15 | 12 pm - 1 pm | Loudermilk, Brandon | [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
+002 | 11.03.15 | 12 pm - 1 pm | Conway, Mark | [A Simple Intro to Bayesian Change Point Analysis](http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
