@@ -1,0 +1,8 @@
+
+Randomization is somewhat analogous to insurance, in that it
+is a precaution against disturbances that may or may not occur
+and that may or may not be serious if they do occur. It is gen-
+erally advisable to take the trouble to randomize even when it is
+not expected that there will be any serious bias from failure to
+randomize. The experimenter is thus protected against unusual
+events that upset his expectations. - Cochran and Cox (1957)
