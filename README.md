@@ -1,4 +1,7 @@
-# brownbag
+# brown-bag
+## [broun-bag] 
+## *noun* 1. an informal, regularly held event; an academic discussion or presentation; a workshop for scientific discourse.
+## *noun* 2. a bag that is brown. duh.
 
 This is the repository for the NWA Data Science brownbag discussion. This is a private (yet open) repo - please feel free to make changes to any documents.
 
