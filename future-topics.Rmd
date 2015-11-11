@@ -1,0 +1,13 @@
+---
+title: "Topics and Articles of Interest"
+author: "Brandon Loudermilk"
+date: "November 11, 2015"
+output: html_document
+---
+
+Please list any topics and articles that are of interest. If you see a topic here you like, then go find and article on it and present it to the group.
+
+## Future Topics
+ * Convolutional Neural Networks
+ * One-class Classification
+ * Anomaly Detection
