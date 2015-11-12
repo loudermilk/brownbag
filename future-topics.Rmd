@@ -12,8 +12,10 @@ Please list any topics and articles that are of interest. If you see a topic her
  * One-class Classification, Anomaly Detection
  * Time series analysis, change point detection
  * TensorFlow
- * Useful public data sets
+ * Useful public data sets ( UCI datasets such as Adult dataset)
  * Engineering (version control, TDD, functional programming, OOA&D)
  * R/Python packages for data science
  * Data Visualization, UI, UX
  * Tools, Jupyter, Shiny, RStudio
+ * Differences between lapply, sapply, tapply, rapply,mapply and apply
+ * Discussion of Claude Shannon's seminal paper on Entropy in 1948 
