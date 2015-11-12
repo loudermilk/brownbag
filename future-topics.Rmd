@@ -8,6 +8,11 @@ output: html_document
 Please list any topics and articles that are of interest. If you see a topic here you like, then go find and article on it and present it to the group.
 
 ## Future Topics
- * Convolutional Neural Networks
- * One-class Classification
- * Anomaly Detection
+ * Convolutional Neural Networks, Deep Learning
+ * One-class Classification, Anomaly Detection
+ * Time series analysis, change point detection
+ * TensorFlow
+ * Useful public data sets
+ * Engineering (version control, TDD, functional programming, OOA&D)
+ * R/Python packages for data science
+ * Data Visualization, UI, UX
