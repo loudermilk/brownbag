@@ -16,3 +16,4 @@ Please list any topics and articles that are of interest. If you see a topic her
  * Engineering (version control, TDD, functional programming, OOA&D)
  * R/Python packages for data science
  * Data Visualization, UI, UX
+ * Tools, Jupyter, Shiny, RStudio
