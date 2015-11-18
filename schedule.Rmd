@@ -9,7 +9,6 @@ output: html_document
 
 No. | Date | Time | Leader | Topic
 --- | ---- | ---- | ------ | -----
-004 | 11.17.15 | 12pm - 1pm | NA | Jeff Dean, Google on: [Large-Scale Deep Learning for Intelligent Computer Systems](https://www.youtube.com/watch?v=90-S1M7Ny_o&t=21m2s) (youtube)
 005 | 11.24.15 | CANCELLED | --- | THANKSGIVING HOLIDAY
 006 | 12.01.15 | 12pm - 1pm | Stewart, Chris | [Gender identity and lexical variation in social media](http://arxiv.org/ftp/arxiv/papers/1210/1210.4567.pdf)
 007 | 12.08.15 | 12pm - 1pm | --- | --- 
@@ -24,3 +23,4 @@ No. | Date | Time | Leader | Topic
 001 | 10.27.15 | 12 pm - 1 pm | Loudermilk, Brandon | [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
 002 | 11.03.15 | 12 pm - 1 pm | Conway, Mark | [A Simple Intro to Bayesian Change Point Analysis](http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
 003 | 11.13.15 | 12pm - 1pm | Taneja, Ravi | [An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data](https://github.com/loudermilk/brownbag/blob/master/articles/kdir11gd.pdf)
+004 | 11.17.15 | 12pm - 1pm | NA | Jeff Dean, Google on: [Large-Scale Deep Learning for Intelligent Computer Systems](https://www.youtube.com/watch?v=90-S1M7Ny_o&t=21m2s) (youtube)
