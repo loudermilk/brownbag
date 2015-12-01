@@ -19,3 +19,15 @@ Please list any topics and articles that are of interest. If you see a topic her
  * Tools, Jupyter, Shiny, RStudio
  * Differences between lapply, sapply, tapply, rapply,mapply and apply
  * Discussion of Claude Shannon's seminal paper on Entropy in 1948 
+ * Some future journal papers on retailing ( althought they are somewhat specific )
+
+Sirohi, N., Mclaughlin, E. W., & Wittink, D. R. (1998). A model of consumer
+perceptions and store loyalty intentions for a supermarket retailer. 
+Journal of Retailing, 74 (2), 223-245.
+
+Summers, T. A., Belleau, B. D., & Wozniak, P. J. (1992). Fashion and shopping
+perceptions, demographics, and store patronage. 
+Clothing and Textiles Research Journal, 11 (19), 83-91.
+
+Summers, T. A., & Wozniak, P. J. (1990, Spring). Discount store patronage preferences
+of rural and urban women.  Clothing and Textile Research Journal, 8 (3), 1-6.
