@@ -10,7 +10,8 @@ output: html_document
 No. | Date | Time | Leader | Topic
 --- | ---- | ---- | ------ | -----
 006 | 12.01.15 | 12pm - 1pm | Stewart, Chris | [Gender identity and lexical variation in social media](http://arxiv.org/ftp/arxiv/papers/1210/1210.4567.pdf)
-007 | 12.08.15 | 12pm - 1pm | NA | [Wrangle Conference 2015, Part I](https://www.youtube.com/playlist?list=PLe-h9HrA9qfA9qK9eTbDW5c5_qrRmoR34) (videos) 
+007 | 12.08.15 | 12pm - 1pm | Conway, Mark | TBD
+008 | 12.15.15 | 12pm - 1pm | --- |[Wrangle Conference 2015, Part I](https://www.youtube.com/playlist?list=PLe-h9HrA9qfA9qK9eTbDW5c5_qrRmoR34) (videos) 
 
 
 ----------
