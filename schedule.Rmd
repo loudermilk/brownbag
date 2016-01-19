@@ -6,19 +6,19 @@ output: html_document
 
 ## Upcoming brownbag :octocat:
 
-No. | Date | Time | Leader | Topic
---- | ---- | ---- | ------ | -----
-008 | 01.19.16 | 12pm - 1pm | M. Conway| Dry-run for meetup talk on sports predictions
+No. | Date | Time | Leader | Topic | Link
+--- | ---- | ---- | ------ | ----- | ----
 009 | 01.26.16 | 12pm - 1pm | R. Taneja & C. Stewart | Gradient Descent & Cyclical Coordinate Descent (scikit-learn)
-010 | 02.02.16 | 12pm - 1pm | B. Loudermilk | PCA & Exploratory Factor Analysis
+010 | 02.02.16 | 12 pm - 1 pm | Amoy Yang | Price optimization – How to win a strategic whole | http://www.palgrave-journals.com/jma/journal/v3/n4/abs/jma201518a.html
+011 | 02.09.16 | 12pm - 1pm | B. Loudermilk | PCA & Exploratory Factor Analysis
 
 
 ----------
 
 ## Previous Events
 
-No. | Date | Time | Leader | Topic
---- | ---- | ---- | ------ | -----
+No. | Date | Time | Leader | Topic | Link
+--- | ---- | ---- | ------ | ----- | ----
 001 | 10.27.15 | 12 pm - 1 pm | Loudermilk, Brandon | [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
 002 | 11.03.15 | 12 pm - 1 pm | Conway, Mark | [A Simple Intro to Bayesian Change Point Analysis](http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
 003 | 11.13.15 | 12pm - 1pm | Taneja, Ravi | [An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data](https://github.com/loudermilk/brownbag/blob/master/articles/kdir11gd.pdf)
@@ -26,3 +26,4 @@ No. | Date | Time | Leader | Topic
 005 | 11.24.15 | CANCELLED | --- | THANKSGIVING HOLIDAY
 006 | 12.01.15 | 12pm - 1pm | Stewart, Chris | [Gender identity and lexical variation in social media](http://arxiv.org/ftp/arxiv/papers/1210/1210.4567.pdf)
 007 | 12.15.15 | 12pm - 1pm | NA |[Wrangle Conference 2015, Part I](https://www.youtube.com/playlist?list=PLe-h9HrA9qfA9qK9eTbDW5c5_qrRmoR34) (videos) 
+008 | 01.19.16 | 12pm - 1pm | M. Conway| Dry-run for meetup talk on sports predictions
