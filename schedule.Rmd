@@ -9,7 +9,8 @@ output: html_document
 No. | Date | Time | Leader | Topic | Link
 --- | ---- | ---- | ------ | ----- | ----
 009 | 01.26.16 | 12pm - 1pm | R. Taneja & C. Stewart | Gradient Descent & Cyclical Coordinate Descent (scikit-learn)
-010 | 02.04.16 | 12pm - 1pm | Videos and tutorial on Relational Algebra based on "Data Manipulation at Scale: Systems and Algorithms" coursera course
+010 | 02.04.16 | 12pm - 1pm | R. Taneja | Videos and tutorial on Relational Algebra based on "Data Manipulation at Scale: Systems and Algorithms" coursera course | https://www.coursera.org/learn/data-manipulation/home/welcome
+
 010 | 02.02.16 | 12pm - 1pm | B. Loudermilk | PCA & Exploratory Factor Analysis
 010 | 02.09.16 | 12 pm - 1 pm | Amoy Yang | Price optimization – How to win a strategic whole | http://www.palgrave-journals.com/jma/journal/v3/n4/abs/jma201518a.html
 
