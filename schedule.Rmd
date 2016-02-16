@@ -1,7 +1,7 @@
 ---
 title: "datascience-brownbag-schedule"
 author: "Brandon Loudermilk"
-output: html_document
+output: pdf_document
 ---
 
 ## Upcoming brownbag :octocat:

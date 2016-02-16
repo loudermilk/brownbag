@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 
 
 # Tidy Tutorial
@@ -18,13 +21,18 @@ Statistical data sets consist of tabular data organized by rows and columns, lik
 Importantly, however, there exist multiple ways of storing the *same* underlying data. Below, we display the same data in a different form -- columns and rows are transposed, such that each column represents a student and each row a test.
 
 ```{r}
-(df2 <- data.frame("Jim Smith" = c(85, 87, 87), "Fred Johnson" = c(81,84,85), "Steve Jones" = c(87, 85, 91), row.names = c("book1", "book2", "book3")))
+(df2 <- data.frame("Jim Smith" = c(85, 87, 87), 
+                   "Fred Johnson" = c(81,84,85), 
+                   "Steve Jones" = c(87, 85, 91), 
+                   row.names = c("book1", "book2", "book3")))
 ```
 
 In general, a data set is just a collection of values (quantitative/qualitative) where each value belongs to both a variable and an observation. To better illustrate the relationship among values, variables, and observations, we display the same data in third table.
 
 ```{r}
-(df3 <- data.frame(student = c("Jim Smith", "Jim Smith", "Jim Smith", "Fred Johnson", "Fred Johnson", "Fred Johnson", "Steve Jones", "Steve Jones", "Steve Jones"),
+(df3 <- data.frame(student = c("Jim Smith", "Jim Smith", "Jim Smith", 
+                               "Fred Johnson", "Fred Johnson", "Fred Johnson", 
+                               "Steve Jones", "Steve Jones", "Steve Jones"),
                    test_number = c(1,2,3,1,2,3,1,2,3),
                    score = c(85, 87, 87, 81, 84, 85, 92, 95, 91)))
 
@@ -92,7 +100,9 @@ Above, we replaced 10 columns with two new columns: `$salary`, which stores inco
 **Solution:** Separate (`separate()`) the single variable column into multiple columns.
 
 ```{r}
-(df1 <- data.frame(year = c(2001, 2001, 2001, 2001), sex_groupnum = c("m1", "m2", "f1", "f2"), score = c(75, 85, 77, 94)))
+(df1 <- data.frame(year = c(2001, 2001, 2001, 2001), 
+                   sex_groupnum = c("m1", "m2", "f1", "f2"), 
+                   score = c(75, 85, 77, 94)))
 ```
 
 The above data contains a column `$sex_groupnum` that represents a combination of gender and group number. We would like to separate this column into two variables, `$sex` and `$groupnum`. Function `separate()` takes the following arguments: *data* - the data.frame, *col* - the column to split, *into* - vector of column names that should be created, and *sep* - how to separate the values in the target column.
@@ -102,14 +112,21 @@ The above data contains a column `$sex_groupnum` that represents a combination o
 ## col - column to be separated
 ## into - vector of new column names
 ## sep - separator (regex for character match, or int for position match)
-separate(data = df1, col = sex_groupnum, into = c("sex", "groupnum"), sep = 1)
+separate(data = df1, 
+         col = sex_groupnum, 
+         into = c("sex", "groupnum"), 
+         sep = 1)
 ```
 
 Above we separated column `$sex_groupnum` using a positional separator (sep = 1), which splits values based on character position. The *sep* variable can also accept a regex value for more sophisticated splitting options.
 
 ```{r}
-(df2 <- data.frame(year = c(2001, 2001, 2001, 2001), sex_groupnum = c("male_1", "male_2", "female_1", "female_2"), score = c(75, 85, 77, 94)))
-separate(data = df2, col = sex_groupnum, into = c("sex", "groupnum"), sep = "_")
+(df2 <- data.frame(year = c(2001, 2001, 2001, 2001), 
+                   sex_groupnum = c("male_1", "male_2", "female_1", "female_2"), 
+                   score = c(75, 85, 77, 94)))
+separate(data = df2, 
+         col = sex_groupnum, 
+         into = c("sex", "groupnum"), sep = "_")
 ```
 
 ### Unite
@@ -118,7 +135,12 @@ separate(data = df2, col = sex_groupnum, into = c("sex", "groupnum"), sep = "_")
 **Solution:** Call `unit()` (inverse of separate) to combine columns into a single column.
 
 ```{r}
-(df1 <- data.frame(author = c("Chomsky", "Pinker", "Humboldt"), title = c("Syntactic Stuctures","The Sense of Style", "The Heterogeneity of Languaga"), century = c(19,20, 18) , year = c(57, 15, 36)))
+(df1 <- data.frame(author = c("Chomsky", "Pinker", "Humboldt"), 
+                   title = c("Syntactic Stuctures",
+                             "The Sense of Style", 
+                             "The Heterogeneity of Language"), 
+                   century = c(19,20, 18) , 
+                   year = c(57, 15, 36)))
 ```
 In the data above, we see that the book's publication year has been split into two columns, one for century and another for year. We need to combine them into a single column called *$publication_year* by calling `unite()`. 
 
@@ -154,7 +176,9 @@ In the above example, we performed a number of individual transformations, `gath
 Packages {dply} and {tidyr} provide a convenience operator `%>%` that allows use to chain together numerous transformations into a single line of code. This has the added benefit of reducing computation (no need to store data in a temporary variable).
 
 ```{r, results="hide"}
-tb1 %>% gather(key = gender_age, value = value, ... = 3:22, na.rm = TRUE) %>% separate(col = gender_age, into = c("gender", "age"), sep = 1)
+tb1 %>% 
+  gather(key = gender_age, value = value, ... = 3:22, na.rm = TRUE) %>% 
+  separate(col = gender_age, into = c("gender", "age"), sep = 1)
 
 ```
 
@@ -166,7 +190,9 @@ If you inspect the code above you will notice that the syntax differs from our p
 **Solution:** Spread (`spread()`)column row values into columns. Function `spread()` is the inverse of `gather()`.
 
 ```{r}
-(df1 <- data.frame(user_id = c(1,1,2,2), type = c("max", "min", "max", "min"), value = c(99,67,88,57)))
+(df1 <- data.frame(user_id = c(1,1,2,2), 
+                   type = c("max", "min", "max", "min"), 
+                   value = c(99,67,88,57)))
 ```
 
 The data above stores a unique `user_id` associated with two scores, `min` and `max`. We want to spread these row values into their own column variables.
@@ -209,7 +235,7 @@ head(rank)
 
 Using a variety of {dplyr} function calls we transformed a single table into two tables each representing their own observational unit. Below, we execute a SQL query on thes new tables.
 
-```{r}
+```{r, warning=FALSE, message=FALSE}
 library(sqldf)
 join_string <- "select songs.artist, songs.track, rank.week, rank.rank
                 from songs
