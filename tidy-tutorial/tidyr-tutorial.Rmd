@@ -1,7 +1,7 @@
 ---
 title: "tidy-data-tutorial"
 author: "Brandon Loudermilk"
-output: pdf_document
+output: html_document
 ---
 
 
