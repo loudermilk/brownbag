@@ -61,7 +61,7 @@ names, and a *value* column for the corresponding data value.
 
 Let's illustrate `gather()` by examing some data on religion and salary.
 
-```{r}
+```{r, warning = FALSE, message = FALSE}
 library(tidyr) # always load both tidyr & dplyr
 library(dplyr) # they are meany to work together
 
