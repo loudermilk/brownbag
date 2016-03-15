@@ -8,7 +8,7 @@ output: pdf_document
 
 No. | Date | Time | Leader | Topic | Resource Links
 --- | ---- | ---- | ------ | ----- | ----
-013 | 03.02.16 | 12pm - 1pm (Glacier) | NA | Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning | https://www.youtube.com/watch?v=n1ViNeWhC24
+14 | 03.15.16 | 12 pm - 1 pm | NA | Bayesian Statistics Made Easy | https://www.youtube.com/watch?v=m067f4WA_Is
 
 ----------
 
@@ -28,3 +28,4 @@ No. | Date | Time | Leader | Topic | Resource Link
 010 | 02.09.16 | 12 pm - 1 pm | Amoy Yang | Price optimization – How to win a strategic whole | http://www.palgrave-journals.com/jma/journal/v3/n4/abs/jma201518a.html
 011 | 02.16.16 | 12pm - 1pm | B. Loudermilk | Tidy Data with {tidyr} | https://github.com/loudermilk/brownbag/tree/master/tidy-tutorial
 012 | 02.24.16 | 12pm - 1pm | C. Stewart | Something on the data.table
+013 | 03.02.16 | 12pm - 1pm (Glacier) | NA | Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning | https://www.youtube.com/watch?v=n1ViNeWhC24
