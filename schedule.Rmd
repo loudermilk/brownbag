@@ -1,24 +1,20 @@
 ---
 title: "datascience-brownbag-schedule"
 author: "Brandon Loudermilk"
-output: html_document
+output: pdf_document
 ---
 
 ## Upcoming brownbag :octocat:
 
-No. | Date | Time | Leader | Topic
---- | ---- | ---- | ------ | -----
-008 | 01.19.16 | 12pm - 1pm | M. Conway| Dry-run for meetup talk on sports predictions
-009 | 01.26.16 | 12pm - 1pm | R. Taneja & C. Stewart | Gradient Descent & Cyclical Coordinate Descent (scikit-learn)
-010 | 02.02.16 | 12pm - 1pm | B. Loudermilk | PCA & Exploratory Factor Analysis
-
-
+No. | Date | Time | Leader | Topic | Resource Links
+--- | ---- | ---- | ------ | ----- | ----
+17 | 04.05.16 | 12 pm - 1 pm | O'Reilly Webcast | Spend Analytics | TBA
 ----------
 
 ## Previous Events
 
-No. | Date | Time | Leader | Topic
---- | ---- | ---- | ------ | -----
+No. | Date | Time | Leader | Topic | Resource Link
+--- | ---- | ---- | ------ | ----- | ----
 001 | 10.27.15 | 12 pm - 1 pm | Loudermilk, Brandon | [Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution](http://www.plosone.org/article/Authors/info:doi/10.1371/journal.pone.0137041)
 002 | 11.03.15 | 12 pm - 1 pm | Conway, Mark | [A Simple Intro to Bayesian Change Point Analysis](http://qualityandinnovation.com/2015/07/14/a-simple-intro-to-bayesian-change-point-analysis/)
 003 | 11.13.15 | 12pm - 1pm | Taneja, Ravi | [An Hybrid Approach to Feature Selection for Mixed Categorical and Continuous Data](https://github.com/loudermilk/brownbag/blob/master/articles/kdir11gd.pdf)
@@ -26,3 +22,12 @@ No. | Date | Time | Leader | Topic
 005 | 11.24.15 | CANCELLED | --- | THANKSGIVING HOLIDAY
 006 | 12.01.15 | 12pm - 1pm | Stewart, Chris | [Gender identity and lexical variation in social media](http://arxiv.org/ftp/arxiv/papers/1210/1210.4567.pdf)
 007 | 12.15.15 | 12pm - 1pm | NA |[Wrangle Conference 2015, Part I](https://www.youtube.com/playlist?list=PLe-h9HrA9qfA9qK9eTbDW5c5_qrRmoR34) (videos) 
+008 | 01.19.16 | 12pm - 1pm | M. Conway| Dry-run for meetup talk on sports predictions
+009 | 02.05.16 | 12pm - 1pm | R. Taneja | Videos and tutorial on Relational Algebra based on "Data Manipulation at Scale: Systems and Algorithms" coursera course | https://www.coursera.org/learn/data-manipulation/home/welcome
+010 | 02.09.16 | 12 pm - 1 pm | Amoy Yang | Price optimization – How to win a strategic whole | http://www.palgrave-journals.com/jma/journal/v3/n4/abs/jma201518a.html
+011 | 02.16.16 | 12pm - 1pm | B. Loudermilk | Tidy Data with {tidyr} | https://github.com/loudermilk/brownbag/tree/master/tidy-tutorial
+012 | 02.24.16 | 12pm - 1pm | C. Stewart | Something on the data.table
+013 | 03.02.16 | 12pm - 1pm (Glacier) | NA | Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning | https://www.youtube.com/watch?v=n1ViNeWhC24
+14 | 03.15.16 | 12 pm - 1 pm | NA | Bayesian Statistics Made Easy | https://www.youtube.com/watch?v=m067f4WA_Is
+15 | 03.22.16 | 12:30 pm - 1:30 pm | NA | Building Air BnB's Data Culture | https://ieondemand.com/divisions/big-data/events/355/presentations/building-airbnb-s-data-culture-insights-from-5-years-of-hypergrowth
+16 | 03.30.16 | 12 pm | NA | Deep Learning | (PyData 2015, Seattle) https://www.youtube.com/watch?v=MVyauNNinC0

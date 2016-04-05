@@ -1,1 +1,7 @@
 *~*
+*.Rproj.user
+*.Rhistory
+.Rproj.user
+*.html
+*.Rproj
+*.odp
