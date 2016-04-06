@@ -8,8 +8,10 @@ output: pdf_document
 
 No. | Date | Time | Leader | Topic | Resource Links
 --- | ---- | ---- | ------ | ----- | ----
-17 | 04.05.16 | 12 pm - 1 pm | O'Reilly Webcast | Spend Analytics | TBA
+18 | ??
+19 | 04.21.16 | 12pm | Microsoft | Retail Analytics | Webinar - Understanding Advanced Analytics to Build a Stronger Retail Customer Experience
 ----------
+
 
 ## Previous Events
 
@@ -31,3 +33,4 @@ No. | Date | Time | Leader | Topic | Resource Link
 14 | 03.15.16 | 12 pm - 1 pm | NA | Bayesian Statistics Made Easy | https://www.youtube.com/watch?v=m067f4WA_Is
 15 | 03.22.16 | 12:30 pm - 1:30 pm | NA | Building Air BnB's Data Culture | https://ieondemand.com/divisions/big-data/events/355/presentations/building-airbnb-s-data-culture-insights-from-5-years-of-hypergrowth
 16 | 03.30.16 | 12 pm | NA | Deep Learning | (PyData 2015, Seattle) https://www.youtube.com/watch?v=MVyauNNinC0
+17 | 04.05.16 | 12 pm - 1 pm | O'Reilly Webcast | Spend Analytics | TBA
