@@ -8,8 +8,7 @@ output: pdf_document
 
 No. | Date | Time | Leader | Topic | Resource Links
 --- | ---- | ---- | ------ | ----- | ----
-18 | ??
-19 | 04.21.16 | 12pm | Microsoft | Retail Analytics | Webinar - Understanding Advanced Analytics to Build a Stronger Retail Customer Experience
+18 | 04.21.16 | 12pm | Ravi T. | NLP, ML, & Neural Networks | Webinar - https://www.dezyre.com/free-webinar/machine-learning-applications-and-artificial-neural-networks/70
 ----------
 
 
