@@ -8,7 +8,7 @@ output: pdf_document
 
 No. | Date | Time | Leader | Topic | Resource Links
 --- | ---- | ---- | ------ | ----- | ----
-20 | 05.03.2016 | 12 pm | O'Reilly Webinar | Data Visualization | Creating Addictive Data Experiences in Modern Applications 
+21 | 05.11.2016 | 12 pm |  Webinar | Anaconda | Open Data Science with R
 
 ----------
 
@@ -36,3 +36,4 @@ No. | Date | Time | Leader | Topic | Resource Link
 17 | 04.05.16 | 12 pm - 1 pm | O'Reilly Webcast | Spend Analytics | TBA
 18 | 04.21.16 | 12pm | Ravi T. | NLP, ML, & Neural Networks | Webinar - https://www.dezyre.com/free-webinar/machine-learning-applications-and-artificial-neural-networks/70
 19 | 04.26.2016 | 12 pm | Ravi Taneja | Designing Professional Decks | Will review data science POC decksfor inspiration
+20 | 05.03.2016 | 12 pm | O'Reilly Webinar | Data Visualization | Creating Addictive Data Experiences in Modern Applications
