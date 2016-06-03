@@ -4,7 +4,7 @@ author: "Brandon Loudermilk"
 output: pdf_document
 ---
 
-## Upcoming brownbag :octocat:
+## TCS Data Science Brownbag - On Tap
 
 No. | Date | Time | Leader | Topic | Resource Links
 --- | ---- | ---- | ------ | ----- | ----
