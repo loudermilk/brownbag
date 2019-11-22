@@ -3,7 +3,6 @@ Name | Phone | Preferred Email
 Brandon Loudermilk | 530-304-6327 | b.c.loudermilk@gmail.com
 Ravi Taneja | 540-230-4679 | ravi.taneja@gmail.com
 Christopher Stewart | 901-828-8274 | stewart.cristophermichael@gmail.com
-Mark Conway | 479-640-4594 | mark.r.conway@gmail.com
 Pejman Mahboubi | | pejman.mah@gmail.com
 Saurav Pathak | | saurav.pathak1@tcs.com
 Chris Shannon | | c.shannon@tcs.com
